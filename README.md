@@ -4,7 +4,7 @@
 **codographer/codographer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on some cool project
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shivank.developer@gmail.com
 - 😄 Pronouns: i'll think about it later
 - ⚡ Fun fact: Will share if we talk in person.
--->
+
