@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning React.js
+- 🔭 I’m currently working on Python/PostgreSQL
+- 🌱 I’m currently learning Cloud security
 - 👯 I’m looking to collaborate on some cool project
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with spanish
 - 💬 Ask me about Python, Flask
 - 📫 How to reach me: shivank.developer@gmail.com
-- 😄 Pronouns: i'll think about it later
-- ⚡ Fun fact: Will share if we talk in person.
+- 😄 Pronouns: Jedi
+- ⚡ Fun fact: decentralised is not so decentralised.
 
